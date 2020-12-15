@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Demo MultiLanguage
+
+  Created by GEM on 12/15/20.
+*/
+
+"txtContent" = "Nội dung tiêngs việt";
+"btnEng" = "Tiếng Anh";
+"btnVi" = "Tiếng Việt";
